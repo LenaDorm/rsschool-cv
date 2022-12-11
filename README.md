@@ -1,2 +1,2 @@
 # rsschool-cv
-https://lenadorm.github.io/rsschool-cv
+https://LenaDorm.github.io/rsschool-cv
